@@ -33,8 +33,8 @@
 		<image>
 			<cube url="panos/01961811_DSC-5359-Panorama.tiles/%s/l%l/%0v/l%l_%s_%0v_%0h.jpg" multires="512,768,1664,3200,6400" />
 		</image>
-		<hotspot type="image" name="spot3" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="60.800" atv="3.762" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
-		<hotspot name="text" style="custom_hotspotext"  html="사하라 사막 " ath="60.800" atv="-1" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
+		<hotspot type="image" name="spot3" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="60.800" atv="3.762" distorted="false" zoom="true" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
+		<hotspot name="text" style="custom_hotspotext"  html="사하라 사막 " ath="60.800" atv="-1" distorted="false" zoom="true" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
 
 	</scene>
 
